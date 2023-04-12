@@ -1,0 +1,16 @@
+{
+  "name": "comic-creator",
+  "version": "1.0.0",
+  "description": "Let's create some interesting comic stories using AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximilian Schirm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "openai": "^3.2.1"
+  }
+}

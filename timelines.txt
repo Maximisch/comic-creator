@@ -1,0 +1,49 @@
+        [
+            {
+                "description": "A dog looking at a large snail.",
+                "subtitle": "The dog is intrigued by the snail's odd size"
+            },
+            {
+                "description": "The dog licking its lips in anticipation.",
+                "subtitle": "It is hungry and willing to take a risk"
+            },
+            {
+                "description": "The dog devouring the snail in one bite.",
+                "subtitle": "It has no idea of the consequences"
+            },
+            {
+                "description": "The dog's stomach swelling.",
+                "subtitle": "The snail was much too big for it"
+            },
+            {
+                "description": "The dog being taken to the vet because of its stomach ache.",
+                "subtitle": "The vet has to save the poor pup"
+            },
+            {
+                "description": "The vet performing an operation to remove the snail.",
+                "subtitle": "The vet has to be careful and make sure nothing else is damaged"
+            }, 
+            {
+                "description": "The dog being discharged from the vet with a clean bill of health afterwards.",
+                "subtitle": "The pup learned its lesson and will never eat a large snail again"
+            }
+        ]
+
+        [
+        {
+            "description": "A large snail crawling on the ground",
+            "subtitle": "Little does the snail know its fate"
+        },
+        {
+            "description": "The dog spotting the snail",
+            "subtitle": "Its eyes lock onto its target"
+        },
+        {
+            "description": "The dog running fast towards the snail",
+            "subtitle": "The snail has nowhere to hide"
+        },
+        {
+            "description": "The dog opening its mouth to eat the snail",
+            "subtitle": "The dog gulps down the large creature in one bite"
+        }
+    ]
